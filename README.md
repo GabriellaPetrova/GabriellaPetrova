@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**GabriellaPetrova/GabriellaPetrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 👩🏻‍💻 Self-taught Java Developer<br>🌱 I’m currently learning new Java skills.<br>💬 Speaking: English, Spain, Bulgarian.<br><br>
 
