@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Self-taught Java Developer<br>🌱 I’m currently learning new Java skills.<br>💬 Speaking: English, Spain, Bulgarian.<br><br>
+👩🏻‍💻 Self-taught Java Developer<br>🌱 I’m currently learning new Java Skills.<br>💬 Speaking: English, Spain, Bulgarian.<br><br>
 
 
 ## 🌐 Socials:
